@@ -25,7 +25,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: SYED JAVEED H
+Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
 ```
@@ -155,7 +155,12 @@ public class MainActivity3 extends AppCompatActivity {
 ## OUTPUT
 ![inputintent](https://github.com/yuvaraj-csk/ExplicitIntent-MAD/assets/134052574/adb07288-8518-40ac-9618-eb94524e2f81)
 ![answerintent](https://github.com/yuvaraj-csk/ExplicitIntent-MAD/assets/134052574/bba8be59-2e8f-490b-ab89-87d3a8dc1a05)
-<img src="https://github.com/yuvaraj-csk/ExplicitIntent-MAD/assets/134052574/5683094f-89c2-4b97-80e5-7dbfb7fe8d0e" width="300" height="400" alt="Description of the image">
+![colour](https://github.com/yuvaraj-csk/ExplicitIntent-MAD/assets/134052574/5683094f-89c2-4b97-80e5-7dbfb7fe8d0e)
+
+
+```
+
+```
 
 
 
