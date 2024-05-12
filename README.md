@@ -158,12 +158,6 @@ public class MainActivity3 extends AppCompatActivity {
 ![colour](https://github.com/yuvaraj-csk/ExplicitIntent-MAD/assets/134052574/5683094f-89c2-4b97-80e5-7dbfb7fe8d0e)
 
 
-```
-
-```
-
-
-
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
 
